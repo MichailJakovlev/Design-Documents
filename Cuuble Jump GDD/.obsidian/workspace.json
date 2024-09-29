@@ -11,11 +11,28 @@
             "id": "66248d5f4f2b1582",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Системы и механики.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "153a0a56385a093c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системы и механики.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Системы и механики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Системы и механики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Системы и механики.md"
+              }
             }
           }
         ]
@@ -138,15 +159,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "66248d5f4f2b1582",
+  "active": "153a0a56385a093c",
   "lastOpenFiles": [
-    "Добро пожаловать.md",
-    "Стилистика ○.md",
-    "Системы и механики ○.md",
+    "Параметры.md",
     "Прогрессия.md",
-    "Интерфейс.md",
-    "Жанры.md",
     "Дизайн.md",
-    "Управление.md"
+    "Жанры.md",
+    "Интерфейс.md",
+    "Системы и механики.md",
+    "Стилистика.md",
+    "Управление.md",
+    "Добро пожаловать.md"
   ]
 }
