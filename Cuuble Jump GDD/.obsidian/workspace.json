@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37267fdc8465b2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Монетизация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b087077d0de538f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интерфейс.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Системы и механики.md",
+                "file": "Интерфейс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Системы и механики.md",
+                "file": "Интерфейс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Системы и механики.md"
+                "file": "Интерфейс.md"
               }
             }
           }
@@ -159,14 +183,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "153a0a56385a093c",
+  "active": "b087077d0de538f4",
   "lastOpenFiles": [
     "Параметры.md",
     "Прогрессия.md",
+    "Локализация.md",
+    "Монетизация.md",
+    "Системы и механики.md",
     "Дизайн.md",
     "Жанры.md",
     "Интерфейс.md",
-    "Системы и механики.md",
     "Стилистика.md",
     "Управление.md",
     "Добро пожаловать.md"
